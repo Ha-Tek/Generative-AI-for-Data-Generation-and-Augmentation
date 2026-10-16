@@ -10,7 +10,7 @@
 By the end of this lab, you will be able to understand and apply key concepts of synthetic data generation using generative AI tools in practical scenarios.
 
 - Understand the concept of synthetic data generation using generative AI
-- Use tools such as **Tonic Fabricate** and **ilovecsv** to create synthetic data samples
+- Use tool **ilovecsv** to create synthetic data samples
 - Augment an existing CSV dataset while maintaining its statistical characteristics
 - Explore how generative AI can enhance datasets for analysis, modeling, and other downstream tasks
 
