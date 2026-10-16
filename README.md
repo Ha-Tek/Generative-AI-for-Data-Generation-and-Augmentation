@@ -32,4 +32,38 @@ The **ilovecsv** tool is a simple, GUI-based tool. You will now explore how to u
 Click this [**ilovecsv**](https://ilovecsv.net/) link to open the website and interface.
 
 
+#### 2. Create an account
+
+You can create an account on this website free of charge, or you can simply log in using your Gmail ID. After you log in, you'll see the following interface:
+
+#### 3. Upload the dataset
+
+- Click on the **`Upload`** button given at the top of the page, and upload the CSV file of the data set to the interface.
+
+- After uploading the dataset, you will be able to see the **insurance_dataset** file listed in the uploaded files section.
+
+#### 4. Access the Data Augmentation tool
+
+- You are on the main dashboard page. Scroll down through the available sections until you locate the **AI and Machine Learning** section, or use the left-hand navigation panel to quickly navigate to it directly.
+
+- Within the AI and Machine Learning section, locate the **Data Augmentation Tool** from the available options and click on it to open the tool interface.
+
+#### 5. Augment the data
+
+Statistical augmentation in the ilovecsv tool involves generating synthetic rows from your existing dataset while preserving its statistical properties.
+
+You can use the **Augmentation factor** to adjust the **density (number of rows)** of the synthetic dataset as required.
+
+Once you have adjusted the augmentation factor **(for example, 1x)**, click the **`Execute Augmentation`** button.
+
+#### 6. Download the synthetic data
+
+After processing completes, you will see a notification that the operation is complete.
+
+- Click the **`See Results`** hyperlink to open and view the final results in the editor.
+
+- Close the results window and return to the previous page. Then click **`Download`** to save the output file to your local machine.
+
+- In the final result, you will get 2,676 rows, which is double the original file since you selected a 1× augmentation factor. You can now use this synthetic data set for data science operations, or you can also augment the original data set with these samples.
+
 
