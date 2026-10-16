@@ -1,5 +1,8 @@
-## Generative-AI-for-Data-Generation-and-Augmentation
-Hands-on Lab: Generative AI for Data Generation and Augmentation
+## Generative-AI-for-Data-Generation-and-Augmentation 
+
+# Hands-on Lab: Generative AI for Data Generation and Augmentation
+
+**Source:** Coursera — [Hands-on Lab: Generative AI for Data Generation and Augmentation](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/WZuAD/hands-on-lab-generative-ai-for-data-generation-and-augmentation)
 
 
 ## Learning objectives
