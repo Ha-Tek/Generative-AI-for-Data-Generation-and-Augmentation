@@ -70,4 +70,4 @@ After processing completes, you will see a notification that the operation is co
 
 ####  Note:
 
-Insurance_dataset1 is the original dataset [**Medical Insurance Price Prediction**](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction?resource=download "Medical Insurance Price Prediction"), whereas Insurance_dataset1_Augmented is the final result with 2,676 rows, which is augmented one of the original file Insurance_dataset1. 
+Insurance_dataset1 is the original dataset [**Medical Insurance Price Prediction**](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction?resource=download "Medical Insurance Price Prediction"), whereas Insurance_dataset1_Augmented is the final result with 2,676 rows, which is the augmented one of the original file Insurance_dataset1. 
