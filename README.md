@@ -68,3 +68,6 @@ After processing completes, you will see a notification that the operation is co
 - In the final result, you will get 2,676 rows, which is double the original file since you selected a 1× augmentation factor. You can now use this synthetic data set for data science operations, or you can also augment the original data set with these samples.
 
 
+####  Note:
+
+Insurance_dataset1 is the original dataset [**Medical Insurance Price Prediction**](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction?resource=download "Medical Insurance Price Prediction"), whereas Insurance_dataset1_Augmented is the final result with 2,676 rows, which is augmented one of the original file Insurance_dataset1. 
