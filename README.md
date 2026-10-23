@@ -24,7 +24,7 @@ The original dataset, [**Medical Insurance Price Prediction**](https://www.kaggl
 
 You can download the cleaned dataset file directly from the link provided here: [**Insurance Dataset**](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-AI0271EN-SkillsNetwork/labs/v1/m1/data/insurance_dataset.csv "Insurance Dataset")
 
-### Option 1: ilovecsv Tool
+###  ilovecsv Tool
 
 The **ilovecsv** tool is a simple, GUI-based tool. You will now explore how to use it.
 
