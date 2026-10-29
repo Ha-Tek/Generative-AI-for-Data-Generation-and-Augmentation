@@ -1,7 +1,7 @@
 ## Generative-AI-for-Data-Generation-and-Augmentation 
 
 
-**Source:** [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/WZuAD/hands-on-lab-generative-ai-for-data-generation-and-augmentation)
+**Source:** [Learning from Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/WZuAD/hands-on-lab-generative-ai-for-data-generation-and-augmentation)
 
 **GenAI tool:** [**ilovecsv**](https://ilovecsv.net/)
 
